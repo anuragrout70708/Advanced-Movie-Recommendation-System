@@ -17,7 +17,7 @@ Welcome to the Advanced Movie Recommendation System repository! This project sho
 
 **Getting Started:**
 
-1. Clone this repository: `git clone https://github.com/yourusername/advanced-movie-recsys.git`
+1. Clone this repository: `git clone https://github.com/anuragrout70708/Advanced-Movie-Recommendation-System.git'
 2. Set up the necessary dependencies by following instructions in the `README` or `requirements.txt` file.
 3. Explore the core recommendation algorithms in the `algorithms` directory and the user interface in the `frontend` directory.
 
@@ -27,8 +27,8 @@ We welcome contributions from the community! Whether you're a seasoned ML engine
 
 **License:**
 
-This project operates under the MIT License. Refer to the [LICENSE](LICENSE) file for details.
+This project operates under the GNU GENERAL PUBLIC LICENSE. Refer to the [LICENSE](LICENSE) file for details.
 
-Elevate your movie discovery experience with the Advanced Movie Recommendation System. Start exploring films that truly resonate with your preferences. Happy movie watching!
+Elevate your movie discovery experience with the Advanced Movie Recommendation System. Start exploring films that truly resonate with your preferences. Happy movie-watching!
 
-*Note: Customize the repository URL, project structure, and other details as needed.*
+
